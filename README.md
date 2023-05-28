@@ -9,4 +9,4 @@ for their daily hustle.
 The application uses Dart language and Flutter framework.
 
 
-![Preview of the application](https://github.com/AabhasAgarwal0/To_Do_App/assets/119881890/a94aa42a-6d69-4d6e-b2f9-cea0281e6f0e)
+![](https://github.com/AabhasAgarwal0/To_Do_App/assets/119881890/a94aa42a-6d69-4d6e-b2f9-cea0281e6f0e | width=100)
