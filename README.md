@@ -8,5 +8,5 @@ Students can use these application to manage with their studies as well as their
 for their daily hustle.
 The application uses Dart language and Flutter framework.
 
-<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/AabhasAgarwal0/To_Do_App/assets/119881890/a94aa42a-6d69-4d6e-b2f9-cea0281e6f0e)" width="200" height="300" />
+<img src="https://github.com/AabhasAgarwal0/To_Do_App/assets/119881890/a94aa42a-6d69-4d6e-b2f9-cea0281e6f0e" width="200" height="500" />
 
